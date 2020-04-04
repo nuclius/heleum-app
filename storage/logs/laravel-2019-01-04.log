@@ -1,0 +1,154 @@
+[2019-01-04 00:50:33] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:33] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:50:33] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:33] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:50:33] local.DEBUG: Account Data {"data":{"activeBalloonAmounts":13.8,"notInBalloons":82.17,"balance":95.97,"currency":"EUR","currencyMark":"€","performance7DaySymbol":"+","performance7Day":"my 7 day performance","activeBalloons":"[object] (Illuminate\\Database\\Eloquent\\Collection: [{\"balloon_id\":57915,\"heleum_user\":13321,\"launch_currency\":\"EUR\",\"launch_amount\":\"15.19\",\"primed_timestamp\":\"2019-01-02 23:25:55\",\"total_fees_in_base_currency\":\"0.2220664\",\"number_moves\":3,\"active\":true,\"user_balloon_id\":1,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2019-01-03 16:25:09\",\"latest_transaction\":{\"transaction_id\":910889,\"balloon\":57915,\"transaction_timestamp\":\"2019-01-03 16:25:23\",\"elapsed_seconds\":61147,\"move_number\":3,\"fee_in_base_currency\":\"0.0701664\",\"origin_currency\":\"BCH\",\"origin_amount\":\"0.09971378\",\"dest_currency\":\"USD\",\"dest_amount\":\"15.73\",\"amount_gain\":\"-1.52148107780\",\"percent_gain\":\"0.9118057707081212934071088374\",\"origin_card\":139000,\"dest_card\":138991,\"uphold_transaction_id\":\"6363069e-1b52-405d-abd7-368ade2cdaa4\"}}])","poppedBalloons":"[object] (Illuminate\\Database\\Eloquent\\Collection: [])"}} 
+[2019-01-04 00:50:33] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:33] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:50:33] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:33] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:50:33] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:33] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:50:40] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:50:40] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:53:08] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:53:08] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:53:12] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:53:12] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:54:46] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:54:46] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:56:54] local.DEBUG: Doing conversion for Transaction (910889) and Amount (15.73).  Currency USD  ->  EUR  
+[2019-01-04 00:56:54] local.INFO: Doing Conversion: (15.73) USD => EUR  
+[2019-01-04 00:58:19] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:19] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:20] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:20] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:20] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:20] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:20] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:20] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:20] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:20] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:21] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:21] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:21] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:21] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:21] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:21] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:21] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:21] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (22.66) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:22] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:22] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (22.66) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Account Data {"data":{"activeBalloonAmounts":284.01,"notInBalloons":0,"balance":284.02,"currency":"USD","currencyMark":"$","performance7DaySymbol":"+","performance7Day":"my 7 day performance","activeBalloons":"[object] (Illuminate\\Database\\Eloquent\\Collection: [{\"balloon_id\":22811,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"333.34\",\"primed_timestamp\":\"2018-01-07 06:32:17\",\"total_fees_in_base_currency\":\"23.075459917302562405400170\",\"number_moves\":22,\"active\":true,\"user_balloon_id\":11,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2019-01-03 16:25:13\",\"latest_transaction\":{\"transaction_id\":910940,\"balloon\":22811,\"transaction_timestamp\":\"2019-01-03 16:25:27\",\"elapsed_seconds\":61147,\"move_number\":22,\"fee_in_base_currency\":\"0.15962100\",\"origin_currency\":\"BCH\",\"origin_amount\":\"0.19332314\",\"dest_currency\":\"EUR\",\"dest_amount\":\"26.75\",\"amount_gain\":\"-6.20966213860\",\"percent_gain\":\"0.8115981252329741683245956912\",\"origin_card\":61988,\"dest_card\":14120,\"uphold_transaction_id\":\"75da4341-a373-4213-80c4-c8b206c08f05\"}},{\"balloon_id\":22200,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"333.33\",\"primed_timestamp\":\"2018-01-05 06:31:18\",\"total_fees_in_base_currency\":\"49.362261347375854590336290\",\"number_moves\":23,\"active\":true,\"user_balloon_id\":10,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-18 16:04:15\",\"latest_transaction\":{\"transaction_id\":889416,\"balloon\":22200,\"transaction_timestamp\":\"2018-12-18 16:04:18\",\"elapsed_seconds\":74634,\"move_number\":23,\"fee_in_base_currency\":\"0.20458080\",\"origin_currency\":\"BCH\",\"origin_amount\":\"0.44835393\",\"dest_currency\":\"EUR\",\"dest_amount\":\"35.76\",\"amount_gain\":\"-3.98657589450\",\"percent_gain\":\"0.8997001425963928325277489017\",\"origin_card\":61988,\"dest_card\":14120,\"uphold_transaction_id\":\"44fb9560-46be-4dea-b977-fb45cdbaf8b3\"}},{\"balloon_id\":21645,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"333.33\",\"primed_timestamp\":\"2018-01-03 06:28:16\",\"total_fees_in_base_currency\":\"45.78895872188590973116640\",\"number_moves\":25,\"active\":true,\"user_balloon_id\":9,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-29 23:48:26\",\"latest_transaction\":{\"transaction_id\":904795,\"balloon\":21645,\"transaction_timestamp\":\"2018-12-29 23:48:42\",\"elapsed_seconds\":101052,\"move_number\":25,\"fee_in_base_currency\":\"0.17157600\",\"origin_currency\":\"ETH\",\"origin_amount\":\"0.243433721966702048\",\"dest_currency\":\"EUR\",\"dest_amount\":\"28.57\",\"amount_gain\":\"-4.398228965950458360640\",\"percent_gain\":\"0.8665918945633099308508592407\",\"origin_card\":14118,\"dest_card\":14120,\"uphold_transaction_id\":\"d5edaec5-6f8e-4d9d-9f9e-2de1491d4850\"}},{\"balloon_id\":17389,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-22 18:34:15\",\"total_fees_in_base_currency\":\"28.30415184927749740880240\",\"number_moves\":23,\"active\":true,\"user_balloon_id\":8,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-17 13:51:51\",\"latest_transaction\":{\"transaction_id\":859036,\"balloon\":17389,\"transaction_timestamp\":\"2018-12-17 13:51:57\",\"elapsed_seconds\":106570,\"move_number\":23,\"fee_in_base_currency\":\"0.12484010\",\"origin_currency\":\"DASH\",\"origin_amount\":\"0.36788536\",\"dest_currency\":\"EUR\",\"dest_amount\":\"21.05\",\"amount_gain\":\"-2.47515775821280\",\"percent_gain\":\"0.8947867732215863754998945933\",\"origin_card\":31393,\"dest_card\":14120,\"uphold_transaction_id\":\"cfb7228a-a8db-4e4b-a8c0-cd0f104e5012\"}},{\"balloon_id\":16302,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-20 18:28:12\",\"total_fees_in_base_currency\":\"9.898584631961670872291300\",\"number_moves\":18,\"active\":true,\"user_balloon_id\":7,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-18 15:52:06\",\"latest_transaction\":{\"transaction_id\":889284,\"balloon\":16302,\"transaction_timestamp\":\"2018-12-18 15:52:11\",\"elapsed_seconds\":84674,\"move_number\":18,\"fee_in_base_currency\":\"0.06817860\",\"origin_currency\":\"BCH\",\"origin_amount\":\"0.13778832\",\"dest_currency\":\"EUR\",\"dest_amount\":\"10.97\",\"amount_gain\":\"-1.12230296320\",\"percent_gain\":\"0.9071886499523326795769046317\",\"origin_card\":61988,\"dest_card\":14120,\"uphold_transaction_id\":\"8a3190f6-284b-4bdb-909b-4b8d573aedf1\"}},{\"balloon_id\":15297,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-18 18:24:15\",\"total_fees_in_base_currency\":\"20.443491148789800305737650\",\"number_moves\":24,\"active\":true,\"user_balloon_id\":6,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-17 21:26:02\",\"latest_transaction\":{\"transaction_id\":881311,\"balloon\":15297,\"transaction_timestamp\":\"2018-12-17 21:26:07\",\"elapsed_seconds\":30498,\"move_number\":24,\"fee_in_base_currency\":\"0.10211490\",\"origin_currency\":\"BTC\",\"origin_amount\":\"0.0054975\",\"dest_currency\":\"EUR\",\"dest_amount\":\"16.75\",\"amount_gain\":\"-1.8559589000\",\"percent_gain\":\"0.9002492206945593113182680415\",\"origin_card\":14116,\"dest_card\":14120,\"uphold_transaction_id\":\"713c3254-94f5-4c30-8f90-71d358a8bfc1\"}},{\"balloon_id\":14460,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-16 18:18:10\",\"total_fees_in_base_currency\":\"29.403408653307427806250220\",\"number_moves\":23,\"active\":true,\"user_balloon_id\":5,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-28 19:21:16\",\"latest_transaction\":{\"transaction_id\":894920,\"balloon\":14460,\"transaction_timestamp\":\"2018-12-28 19:21:31\",\"elapsed_seconds\":1000,\"move_number\":23,\"fee_in_base_currency\":\"0.17157750\",\"origin_currency\":\"ETH\",\"origin_amount\":\"0.242818709230320414\",\"dest_currency\":\"EUR\",\"dest_amount\":\"28.53\",\"amount_gain\":\"-4.792011467676870413220\",\"percent_gain\":\"0.8561908103199222085671815009\",\"origin_card\":14118,\"dest_card\":14120,\"uphold_transaction_id\":\"90c8975b-01fc-4542-9c99-b3422083fb62\"}},{\"balloon_id\":13587,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-14 18:10:10\",\"total_fees_in_base_currency\":\"30.128293095525339172531460\",\"number_moves\":24,\"active\":true,\"user_balloon_id\":4,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-18 09:19:24\",\"latest_transaction\":{\"transaction_id\":886108,\"balloon\":13587,\"transaction_timestamp\":\"2018-12-18 09:19:27\",\"elapsed_seconds\":47541,\"move_number\":24,\"fee_in_base_currency\":\"0.13637760\",\"origin_currency\":\"BAT\",\"origin_amount\":\"196.782665563440082169\",\"dest_currency\":\"EUR\",\"dest_amount\":\"22.13\",\"amount_gain\":\"-5.197208766794924210809030\",\"percent_gain\":\"0.8098156013244202392615609285\",\"origin_card\":61989,\"dest_card\":14120,\"uphold_transaction_id\":\"85a253a6-36d0-4dad-96e3-c7b9c52efc11\"}},{\"balloon_id\":12785,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-12 18:09:09\",\"total_fees_in_base_currency\":\"30.146700443314213305098760\",\"number_moves\":27,\"active\":true,\"user_balloon_id\":3,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-17 13:42:10\",\"latest_transaction\":{\"transaction_id\":857953,\"balloon\":12785,\"transaction_timestamp\":\"2018-12-17 13:42:20\",\"elapsed_seconds\":106793,\"move_number\":27,\"fee_in_base_currency\":\"0.10216350\",\"origin_currency\":\"DASH\",\"origin_amount\":\"0.29977128\",\"dest_currency\":\"EUR\",\"dest_amount\":\"17.34\",\"amount_gain\":\"-1.77342280822560\",\"percent_gain\":\"0.9072158437544533026085400525\",\"origin_card\":31393,\"dest_card\":14120,\"uphold_transaction_id\":\"b3d83786-db4b-40a8-994b-aef7e85335e6\"}},{\"balloon_id\":12147,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-10 17:35:13\",\"total_fees_in_base_currency\":\"52.983381576274183130443990\",\"number_moves\":32,\"active\":true,\"user_balloon_id\":2,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-17 21:09:45\",\"latest_transaction\":{\"transaction_id\":876709,\"balloon\":12147,\"transaction_timestamp\":\"2018-12-17 21:09:59\",\"elapsed_seconds\":28714,\"move_number\":32,\"fee_in_base_currency\":\"0.11345200\",\"origin_currency\":\"XRP\",\"origin_amount\":\"66.441054\",\"dest_currency\":\"EUR\",\"dest_amount\":\"18.58\",\"amount_gain\":\"-1.35231620\",\"percent_gain\":\"0.9321545882359622611244748365\",\"origin_card\":123061,\"dest_card\":14120,\"uphold_transaction_id\":\"85a5ec60-4428-4967-bf79-9378b0a13688\"}},{\"balloon_id\":11689,\"heleum_user\":1134,\"launch_currency\":\"USD\",\"launch_amount\":\"187.50\",\"primed_timestamp\":\"2017-12-08 17:29:11\",\"total_fees_in_base_currency\":\"63.641655221866246300972290\",\"number_moves\":38,\"active\":true,\"user_balloon_id\":1,\"nullified\":false,\"busy\":false,\"last_busy_timestamp\":\"2018-12-17 16:50:59\",\"latest_transaction\":{\"transaction_id\":864825,\"balloon\":11689,\"transaction_timestamp\":\"2018-12-17 16:51:11\",\"elapsed_seconds\":14874,\"move_number\":38,\"fee_in_base_currency\":\"0.13605000\",\"origin_currency\":\"ETH\",\"origin_amount\":\"0.288921714728406702\",\"dest_currency\":\"EUR\",\"dest_amount\":\"22.66\",\"amount_gain\":\"-3.129152256657582220520\",\"percent_gain\":\"0.8786640124686619775482488931\",\"origin_card\":14118,\"dest_card\":14120,\"uphold_transaction_id\":\"3b49c464-54a4-4458-9612-86e746166f5a\"}}])","poppedBalloons":"[object] (Illuminate\\Database\\Eloquent\\Collection: [])"}} 
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:23] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:23] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:24] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:24] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:25] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:25] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (22.66) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (22.66) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:26] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:26] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:27] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:27] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:27] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:27] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:27] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:27] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:27] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:27] local.INFO: Doing Conversion: (22.66) EUR => USD  
+[2019-01-04 00:58:32] local.DEBUG: Doing conversion for Transaction (910940) and Amount (26.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:32] local.INFO: Doing Conversion: (26.75) EUR => USD  
+[2019-01-04 00:58:32] local.DEBUG: Doing conversion for Transaction (889416) and Amount (35.76).  Currency EUR  ->  USD  
+[2019-01-04 00:58:32] local.INFO: Doing Conversion: (35.76) EUR => USD  
+[2019-01-04 00:58:32] local.DEBUG: Doing conversion for Transaction (904795) and Amount (28.57).  Currency EUR  ->  USD  
+[2019-01-04 00:58:32] local.INFO: Doing Conversion: (28.57) EUR => USD  
+[2019-01-04 00:58:33] local.DEBUG: Doing conversion for Transaction (859036) and Amount (21.05).  Currency EUR  ->  USD  
+[2019-01-04 00:58:33] local.INFO: Doing Conversion: (21.05) EUR => USD  
+[2019-01-04 00:58:33] local.DEBUG: Doing conversion for Transaction (889284) and Amount (10.97).  Currency EUR  ->  USD  
+[2019-01-04 00:58:33] local.INFO: Doing Conversion: (10.97) EUR => USD  
+[2019-01-04 00:58:33] local.DEBUG: Doing conversion for Transaction (881311) and Amount (16.75).  Currency EUR  ->  USD  
+[2019-01-04 00:58:33] local.INFO: Doing Conversion: (16.75) EUR => USD  
+[2019-01-04 00:58:33] local.DEBUG: Doing conversion for Transaction (894920) and Amount (28.53).  Currency EUR  ->  USD  
+[2019-01-04 00:58:33] local.INFO: Doing Conversion: (28.53) EUR => USD  
+[2019-01-04 00:58:33] local.DEBUG: Doing conversion for Transaction (886108) and Amount (22.13).  Currency EUR  ->  USD  
+[2019-01-04 00:58:33] local.INFO: Doing Conversion: (22.13) EUR => USD  
+[2019-01-04 00:58:34] local.DEBUG: Doing conversion for Transaction (857953) and Amount (17.34).  Currency EUR  ->  USD  
+[2019-01-04 00:58:34] local.INFO: Doing Conversion: (17.34) EUR => USD  
+[2019-01-04 00:58:34] local.DEBUG: Doing conversion for Transaction (876709) and Amount (18.58).  Currency EUR  ->  USD  
+[2019-01-04 00:58:34] local.INFO: Doing Conversion: (18.58) EUR => USD  
+[2019-01-04 00:58:34] local.DEBUG: Doing conversion for Transaction (864825) and Amount (22.66).  Currency EUR  ->  USD  
+[2019-01-04 00:58:34] local.INFO: Doing Conversion: (22.66) EUR => USD  
